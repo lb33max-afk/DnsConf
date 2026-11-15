@@ -184,3 +184,4 @@ Previously generated data is removed **ONLY** when both `BLOCK` and `REDIRECT` s
 
 + The action will be launched every day at **01:30 UTC**. To set another time, change cron at `.github/workflows/github_action.yml`
 + You can run the action manually via `Run workflow` button: switch to _Actions_ tab and choose workflow named **DNS Block&Redirect Configurer cron task**
++ 
